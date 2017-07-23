@@ -1,4 +1,4 @@
-import './index.css'
+//import './index.css'
 //import numeral from 'numeral';
 
 import{getUsers, deleteUser} from './api/userApi';
